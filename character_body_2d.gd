@@ -1,3 +1,4 @@
+#this is the script!!!
 extends CharacterBody2D
 
 var speed : int
