@@ -23,3 +23,4 @@ func _physics_process(_delta):
 	else:
 		$AnimatedSprite2D.stop()
 		$AnimatedSprite2D.frame = 0
+#this is for animated sprites ^^^
